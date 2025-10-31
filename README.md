@@ -32,9 +32,7 @@ This is one of my early frontend learning projects — made to practice DOM mani
 
 ---
 ##  Project Structure
-
 Have-a-Toss/
-
 │
 ├── coinflip.html          # Main page
 ├── coinflip.css           # Styling
