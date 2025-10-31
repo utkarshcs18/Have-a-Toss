@@ -33,14 +33,14 @@ This is one of my early frontend learning projects — made to practice DOM mani
 ---
 ##  Project Structure
 
-Have-a-Toss/
+coin-flip-game/
 │
-├── coinflip.html          # Main page
-├── coinflip.css           # Styling
-├── coinflip.js            # Game logic (JS)
+├── index.html          # Main page
+├── style.css           # Styling
+├── script.js           # Game logic (JS)
 │
-├──  coin-a.png            # Icon
-└── README.md              # This file
+├── extra/              # Other files made during practice
+└── README.md           # This file
 
 ---
 ## 🤝 Contributing
