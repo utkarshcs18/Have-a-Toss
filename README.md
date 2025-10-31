@@ -35,12 +35,12 @@ This is one of my early frontend learning projects — made to practice DOM mani
 
 coin-flip-game/
 │
-├── index.html          # Main page
-├── style.css           # Styling
-├── script.js           # Game logic (JS)
+├── index.html # Main page
+├── style.css # Styling
+├── script.js # Game logic
 │
-├── extra/              # Other files made during practice
-└── README.md           # This file
+├── extra/ # Other experimental or practice files
+└── README.md # Project info
 
 ---
 ## 🤝 Contributing
