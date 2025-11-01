@@ -33,14 +33,8 @@ This is one of my early frontend learning projects — made to practice DOM mani
 ---
 ##  Project Structure
 
-coin-flip-game/
-│
-├── index.html # Main page
-├── style.css # Styling
-├── script.js # Game logic
-│
-├── extra/ # Other experimental or practice files
-└── README.md # Project info
+<img width="615" height="472" alt="Screenshot 2025-11-01 053218" src="https://github.com/user-attachments/assets/6c3d68b3-f234-436c-8eec-69237b4f6887" />
+
 
 ---
 ## 🤝 Contributing
